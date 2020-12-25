@@ -1,0 +1,26 @@
+
+
+{
+    "items": [
+        {
+            "title": "Maninagar",
+            "category": "Home",
+            "pinCode": "380050",
+            "address": "testestaset asdf asdfasdfas df"
+        },
+        {
+            "title": "Vasna",
+            "category": "Home",
+            "pinCode": "380050",
+            "address": "testestaset asdf asdfasdfas df"
+        },
+        {
+            "title": "Jivraj",
+            "category": "Home",
+            "pinCode": "380050",
+            "address": "testestaset asdf asdfasdfas df"
+        }
+    ]
+}
+
+
